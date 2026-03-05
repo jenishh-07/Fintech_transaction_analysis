@@ -1,0 +1,31 @@
+merchant_id,merchant_name,category,city
+201,Amazon,Travel,Hyderabad
+202,Flipkart,Electronics,Bangalore
+203,Zomato,Grocery,Bangalore
+204,Swiggy,Travel,Delhi
+205,Uber,Transport,Delhi
+206,Ola,Grocery,Mumbai
+207,Croma,Grocery,Hyderabad
+208,BigBasket,Travel,Hyderabad
+209,Reliance Digital,Food,Chennai
+210,Nykaa,Transport,Chennai
+211,Myntra,Travel,Chennai
+212,BookMyShow,Transport,Delhi
+213,Dominos,Transport,Hyderabad
+214,Pizza Hut,Grocery,Hyderabad
+215,Starbucks,Electronics,Bangalore
+216,KFC,Transport,Delhi
+217,Subway,Entertainment,Pune
+218,Dunzo,Grocery,Delhi
+219,Zepto,Food,Pune
+220,Blinkit,Electronics,Bangalore
+221,MakeMyTrip,Entertainment,Mumbai
+222,Goibibo,Entertainment,Hyderabad
+223,RedBus,Food,Bangalore
+224,Paytm Mall,Electronics,Hyderabad
+225,Ajio,Grocery,Chennai
+226,Meesho,E-commerce,Mumbai
+227,Samsung Store,Electronics,Mumbai
+228,Apple Store,Food,Bangalore
+229,Lenovo Store,Entertainment,Mumbai
+230,Boat Lifestyle,Grocery,Pune
