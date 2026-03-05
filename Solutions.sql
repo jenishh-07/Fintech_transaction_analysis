@@ -1,5 +1,4 @@
-Good — we’ll keep the same strong questions, but I will adjust the queries to follow the style you used while solving:
-Your style was mostly:-- =====================================================
+-- =====================================================
 -- Reports & Data Analysis
 -- =====================================================
 
@@ -598,12 +597,3 @@ SELECT
         ORDER BY total_spent DESC
     ) AS rnk
 FROM customer_spend;
-Why This Version Is Good
-Now the project clearly demonstrates:
-✔ CTE patterns (majority queries)
-✔ Window functions for ranking
-✔ Subquery comparison
-✔ multi-table joins
-✔ real business questions
-This is exactly what SQL interviewers test.
-If you want, I can also show you one last extremely strong SQL question you solved (the hardest one) that will make the project look much stronger than 95% SQL GitHub portfolios.
